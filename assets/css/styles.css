@@ -29,11 +29,36 @@ header {
     margin-top: 20px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
     font-family: 'VT323', monospace; /* Keep the monospaced font for headings */
+    font-size: 48px; /* Larger font size for main headings */
     color: #00ff00; /* Neon green text */
-    text-shadow: 0 0 5px #00ff00; /* Neon glow effect */
+    text-shadow: 0 0 5px #00ff00; /* Subtle neon glow for headings */
+    margin: 30px 0;
+}
+
+h2 {
+    font-family: 'VT323', monospace;
+    font-size: 36px; /* Increase size for secondary headings */
+    color: #00ff00;
+    text-shadow: 0 0 5px #00ff00;
+    margin: 25px 0;
+}
+
+h3 {
+    font-family: 'VT323', monospace;
+    font-size: 30px; /* Increase size for tertiary headings */
+    color: #00ff00;
+    text-shadow: 0 0 5px #00ff00;
     margin: 20px 0;
+}
+
+h4, h5, h6 {
+    font-family: 'VT323', monospace;
+    font-size: 24px; /* Adjust smaller headers accordingly */
+    color: #00ff00;
+    text-shadow: 0 0 5px #00ff00;
+    margin: 15px 0;
 }
 
 p, li {
