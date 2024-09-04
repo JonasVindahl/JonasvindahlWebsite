@@ -1,1 +1,5 @@
-theme: minima
+theme: jekyll-theme-slate
+title: Jonas Vindahl's Blog
+description: A simple blog for my thoughts and updates.
+markdown: kramdown
+permalink: /:title/
