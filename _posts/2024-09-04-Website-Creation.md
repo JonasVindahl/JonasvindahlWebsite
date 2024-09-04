@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Test Blog"
+title: "My first Blog"
 date: 2024-09-04
 categories: blog
 ---
