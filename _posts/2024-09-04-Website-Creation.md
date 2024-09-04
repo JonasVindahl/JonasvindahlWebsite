@@ -8,7 +8,7 @@ categories: blog
 # Welcome to My FIRST blog!
 I don't have much experience creating websites, but when I saw NetworkChuck's [Video](https://www.youtube.com/watch?v=EXfFBEuCAr0&pp=ygUVbmV0d29yayBjaHVjayB3ZWJzaXRl) I was inspired to create my own. This is the story of how I did it.
 
-## Well its just a website, how difficult can that be? 
+### Well its just a website, how difficult can that be? 
 It depends.. I went into it not knowing anything, except the fact I wanted a blog and some information about myself.
 With what I learned from Chuck, I wanted GitHub to host my site, since it's easy to host and **free**. GitHub has a feature called [GitHub Skills](https://github.com/skills) which is a guide to learn how to use github. One of the skills is [GitHub Pages](https://github.com/skills/github-pages) and how to "*Create a site or blog from your GitHub repositories with GitHub Pages.*"  
 
@@ -33,4 +33,4 @@ In adobe XD I designed a *rough mockup* for my site. It was just some text and s
 I put the image in to ChatGPT-4o, asked it to remake it in HTML with a simple, green "hacking inspired" look. The result was a good start, with some minor tweaks I had a website. 
 DALL-E made me an icon in the inspired style, so I had a website.
 
-#### Blogposts
+### Blogposts

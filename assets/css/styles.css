@@ -1,4 +1,3 @@
-
 /* Header Logo Styling */
 .header-logo {
     display: flex;
@@ -16,11 +15,12 @@
 /* General Body Styling */
 body {
     margin: 0;
-    padding: 0;
+    padding: 20px; /* Add padding for overall content spacing */
     background-color: #0d0d0d; /* Dark background */
     color: #e0e0e0; /* Light text for contrast */
-    font-family: 'VT323', monospace; /* Monospaced, terminal-like font */
-    line-height: 1.6;
+    font-family: 'Verdana', sans-serif; /* Use a more readable font for the body text */
+    font-size: 18px; /* Increase font size for readability */
+    line-height: 1.8; /* Increase line height for better spacing */
 }
 
 /* Header Styling */
@@ -30,14 +30,16 @@ header {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: 'VT323', monospace; /* Keep the monospaced font for headings */
     color: #00ff00; /* Neon green text */
     text-shadow: 0 0 5px #00ff00; /* Neon glow effect */
     margin: 20px 0;
 }
 
-p, li, a {
-    font-size: 18px;
+p, li {
+    font-size: 18px; /* Ensure all text elements are readable */
     color: #e0e0e0;
+    margin-bottom: 20px; /* Add margin below paragraphs for spacing */
 }
 
 a {
@@ -64,6 +66,7 @@ pre, code {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    text-align: left; /* Align text to the left for readability */
 }
 
 .blog-posts ul {
