@@ -5,7 +5,7 @@ date: 2024-09-04
 categories: blog
 ---
 
-# Welcome to My FIRST blog!
+## Welcome to My FIRST blog!
 I don't have much experience creating websites, but when I saw NetworkChuck's [Video](https://www.youtube.com/watch?v=EXfFBEuCAr0&pp=ygUVbmV0d29yayBjaHVjayB3ZWJzaXRl) I was inspired to create my own. This is the story of how I did it.
 
 ## Well its just a website, how difficult can that be? 
