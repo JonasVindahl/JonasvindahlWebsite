@@ -6,11 +6,13 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet"> <!-- Monospaced font -->
-    <link rel="icon" type="image/png" href="logo.webp"/>
-
 </head>
 <body>
     <header>
+        <!-- Add the logo image here -->
+        <div class="header-logo">
+            <img src="{{ '/assets/images/logo.webp' | relative_url }}" alt="Jonas Vindahl Logo" class="logo">
+        </div>
         <h1>{{ site.title }}</h1>
     </header>
     <main class="content">
