@@ -30,11 +30,11 @@ header {
 }
 
 h1 {
-    font-family: 'Verdana', monospace; /* Keep the monospaced font for headings */
+    font-family: 'VT323', monospace; /* Keep the monospaced font for headings */
     font-size: 48px; /* Larger font size for main headings */
     color: #00ff00; /* Neon green text */
     text-shadow: 0 0 5px #00ff00; /* Subtle neon glow for headings */
-    margin: 15px 0;
+    margin: 25px 0;
 }
 
 h2 {
