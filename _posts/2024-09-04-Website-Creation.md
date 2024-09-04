@@ -9,6 +9,7 @@ categories: blog
 I don't have much experience creating websites, but when I saw NetworkChuck's [Video](https://www.youtube.com/watch?v=EXfFBEuCAr0&pp=ygUVbmV0d29yayBjaHVjayB3ZWJzaXRl) I was inspired to create my own. This is the story of how I did it.
 
 ## Well its just a website, how difficult can that be? 
+It depends.. I went into it not knowing anything, except the fact I wanted a blog and some information about myself.
 With what I learned from Chuck, I wanted GitHub to host my site, since it's easy to host and **free**. GitHub has a feature called [GitHub Skills](https://github.com/skills) which is a guide to learn how to use github. One of the skills is [GitHub Pages](https://github.com/skills/github-pages) and how to "*Create a site or blog from your GitHub repositories with GitHub Pages.*"  
 
 After following the tutorial, I had a basic idea of how to create a blog using [Jekyll](https://jekyllrb.com/) that was integrated with GitHub Pages and use markdown, a simple language GitHub is known for. My site looked horrendous and I didn't like it, so I switched HTML (Hypertext Markup Language) as I am more familiar with HTML.
