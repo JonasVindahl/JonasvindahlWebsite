@@ -6,3 +6,4 @@ permalink: /:title/
 sass:
   sass_dir: _sass
 css_dir: assets/css
+excerpt_separator: "\n\n" # This tells Jekyll to use the first paragraph break as the end of the excerpt.

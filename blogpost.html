@@ -10,6 +10,7 @@ title: Blog
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <small>{{ post.date | date: "%B %d, %Y" }}</small>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p> <!-- Auto-generated excerpt -->
       </li>
     {% endfor %}
   </ul>
