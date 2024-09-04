@@ -1,0 +1,74 @@
+/* General Body Styling */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0d0d0d; /* Dark background */
+    color: #e0e0e0; /* Light text for contrast */
+    font-family: 'VT323', monospace; /* Monospaced, terminal-like font */
+    line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #00ff00; /* Neon green text */
+    text-shadow: 0 0 5px #00ff00; /* Neon glow effect */
+    margin: 20px 0;
+}
+
+p, li, a {
+    font-size: 18px;
+    color: #e0e0e0;
+}
+
+a {
+    text-decoration: none;
+    color: #00ff00;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #ff00ff; /* Purple on hover for contrast */
+}
+
+/* Code Blocks and Preformatted Text */
+pre, code {
+    background-color: #161616; /* Slightly lighter background for code */
+    color: #00ff00; /* Neon green for code */
+    padding: 5px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+/* Blog Post List */
+.blog-posts {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.blog-posts ul {
+    list-style: none;
+    padding: 0;
+}
+
+.blog-posts li {
+    margin: 15px 0;
+    border-bottom: 1px solid #00ff00;
+    padding-bottom: 10px;
+}
+
+.blog-posts li a {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.blog-posts li small {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}

@@ -1,5 +1,8 @@
-theme: jekyll-theme-slate
+theme: minima
 title: Jonas Vindahl's Blog
-description: A simple blog for my thoughts and updates.
+description: A hacker-themed blog for my thoughts and updates.
 markdown: kramdown
 permalink: /:title/
+sass:
+  sass_dir: _sass
+css_dir: assets/css
